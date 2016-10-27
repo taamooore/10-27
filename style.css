@@ -11,6 +11,10 @@ li a {
 h1 { text-align: center; font-family: font-family: 'Rubik', sans-serif; font-size: 300%; color: black;
 
 }
+a:link {
+  text-decoration: none; 
+}
+
 
 
 /* Small devices (tablets, 768px and up) */
